@@ -12,7 +12,7 @@ $$
 -\frac{V-E_L}{R_m}+I(t).
 $$
 
-When voltage reaches threshold, a spike event is recorded and voltage resets to $$ V_{\mathrm{reset}}$$. During the absolute refractory period, voltage remains at reset.
+When voltage reaches threshold, a spike event is recorded and voltage resets to $V_{\mathrm{reset}}$. During the absolute refractory period, voltage remains at reset.
 
 The simulator uses SI units. Figures display time in milliseconds (ms), voltage in millivolts (mV), and current in picoamperes (pA).
 
